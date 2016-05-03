@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentaxaveria1601fran_0035.png"; bbox 0 0 2148 3515; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 273 3515">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 273 3515">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 273 3515; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 273 3515; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 218 3145 455 3186">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 218 3145 455 3186">
+     <span class='ocr_line' id='line_1_2' title="bbox 218 3145 455 3186; baseline 0.013 -4"><span class='ocrx_word' id='word_1_2' title='bbox 218 3145 351 3186; x_wconf 76' lang='lat' dir='ltr'><strong>Momm.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 377 3148 406 3183; x_wconf 66' lang='grc' dir='ltr'>Χ</span> <span class='ocrx_word' id='word_1_4' title='bbox 413 3161 455 3185; x_wconf 53' lang='lat' dir='ltr'><strong>A&amp;</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 448 456 1683 2836">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 448 456 1683 2836">
+     <span class='ocr_line' id='line_1_3' title="bbox 448 456 1683 2836; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 448 456 1683 2836; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1686 891 1738 2428">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1686 891 1738 2428">
+     <span class='ocr_line' id='line_1_4' title="bbox 1686 891 1738 2428; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 1686 2207 1724 2428; x_wconf 88' lang='lat' dir='ltr'><strong>XAVERII</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1688 1835 1736 2173; x_wconf 71' lang='lat' dir='ltr'>CASTELLUM,</span> <span class='ocrx_word' id='word_1_8' title='bbox 1694 1504 1731 1799; x_wconf 89' lang='lat' dir='ltr'><strong>NATALITIA</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1697 1429 1732 1469; x_wconf 88' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1698 1108 1735 1391; x_wconf 88' lang='lat' dir='ltr'>FRANCISCI</span> <span class='ocrx_word' id='word_1_11' title='bbox 1700 891 1738 1075; x_wconf 92' lang='lat' dir='ltr'>DOMUS</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
